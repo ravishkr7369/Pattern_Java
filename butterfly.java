@@ -15,7 +15,7 @@ public class butterfly {
 	public static void main(String[] args) {
 		
 		int n=4;
-			// first half symmetrical 
+			//first half symmetrical 
 		for (int i = 1; i <=n; i++) {
 
 			// 1st part for *
